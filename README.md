@@ -16,7 +16,7 @@ Paired evaluation of dose and blur augmentation for a 3D RetinaNet detector on L
 [Code](https://github.com/Mahmoudyasen/lung-nodule-detector-robustness) · [Pre-registered analysis plans](https://github.com/Mahmoudyasen/lung-nodule-detector-analysis-plans)
 
 **Machine Learning Techniques to Predict Total Precipitation Over Specific Seasons**
-O. Sawalha, M. Yaseen, Z. Aslan · 12th International Conference on Image Processing, Wavelet and Applications (IWW2025), Istanbul Technical University, 3–5 November 2025 · extended abstract in the IWW 2025 Book of Extended Abstracts (İTÜ Yayınevi, 2026, p. 123) · full paper in processing with IEEE
+O. Sawalha, M. Yaseen, Z. Aslan · 12th International Conference on Image Processing, Wavelet and Applications (IWW2025), Istanbul Technical University, 3–5 November 2025 · extended abstract in the IWW 2025 Book of Extended Abstracts (İTÜ Yayınevi, 2026, p. 123)
 Seasonal total-precipitation prediction over Istanbul from ERA5-Land and MODIS water vapour with Random Forest and Gradient Boosting.
 [Conference program](https://iww.itu.edu.tr/program/program) · [Book of Extended Abstracts](https://www.researchgate.net/publication/404975541_IWW_2025_Book_of_Extended_Abstracts)
 
