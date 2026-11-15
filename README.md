@@ -23,7 +23,7 @@ M. Yaseen · presented at IWW2025, Istanbul Technical University · paper in pro
 | Project | What it is | Stack |
 |---|---|---|
 | [lung-nodule-detector-robustness](https://github.com/Mahmoudyasen/lung-nodule-detector-robustness) | Robustness study of a 3D CT lung-nodule detector | Python, PyTorch, ASTRA |
-| [DAWebAI](https://github.com/Mahmoudyasen/DAWebAI) | Medical appointment platform with diagnostic ML models | Next.js |
+| [ai-medical-appointment-platform](https://github.com/Mahmoudyasen/ai-medical-appointment-platform) | Medical appointment platform with diagnostic ML models | Next.js |
 | [Churn-Prediction-Retention-Strategy-System](https://github.com/Mahmoudyasen/Churn-Prediction-Retention-Strategy-System) | Churn prediction with LR, Random Forest and XGBoost | Python, scikit-learn |
 | [ManToMan](https://github.com/Mahmoudyasen/ManToMan) | Community football app with an Azure SQL backend | Flutter, Python |
 | [Code-Peek-Extension](https://github.com/Mahmoudyasen/Code-Peek-Extension) | Chrome DevTools extension with framework detection and StackOverflow search | JavaScript |
