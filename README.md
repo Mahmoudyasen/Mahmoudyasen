@@ -2,7 +2,7 @@
 
 **M.Sc. researcher in Artificial Intelligence & Data Science · Istanbul Aydın University**
 
-I work on robust and reproducible machine learning, mainly deep learning for medical imaging (3D lung-nodule detection in CT) and machine learning for spatiotemporal climate data. I pre-register my analysis plans and publish my code. I'm currently looking for PhD research fellow positions.
+I work on robust and reproducible machine learning, mainly deep learning for medical imaging (3D lung-nodule detection in CT) and machine learning for spatiotemporal climate data. I pre-register my analysis plans and publish my code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-yaseen-5b20b326b)
 [![Email](https://img.shields.io/badge/Email-mahmoudyaseen606%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:mahmoudyaseen606@outlook.com)
